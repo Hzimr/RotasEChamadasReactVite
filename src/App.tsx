@@ -1,9 +1,10 @@
 import "./App.css";
+import Paths from "./Routes/Paths";
 
 function App() {
   return (
     <>
-      <h1>Home</h1>
+      <Paths />
     </>
   );
 }
